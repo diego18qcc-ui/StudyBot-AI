@@ -1,0 +1,5 @@
+LIBREARIAS NECESARIAS PARA EL PROYECTO:
+
+discord.py
+google-genai
+python-dotenv
