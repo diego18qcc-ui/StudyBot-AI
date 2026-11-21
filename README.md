@@ -1,7 +1,5 @@
 # PROYECTO DE CHATBOT DE DISCORD AI
-
-------Semana 16-----
-
+-----------------------------------
 # 🤖 StudyBot AI
 
 ## Bot inteligente desarrollado en Python para Discord con integración de Gemini AI
